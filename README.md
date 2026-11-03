@@ -17,7 +17,5 @@
 </p>
 
 <p align="center">
-  <img src="assets/nir-lego.svg" width="130" alt="Lego Nir"><br/>
-  <b>Very cool coder</b> 👀<br/>
-  <i>This GitHub belongs to Nir Yona</i>
+  <i>This GitHub belongs to Ofri Mor</i>
 </p>
